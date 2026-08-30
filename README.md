@@ -18,8 +18,10 @@ was safe, so we built proof: release health gates, SLOs, error budgets, a secure
 the same treatment and they need more of it, because they are fluent enough to be convincing when
 they are wrong.
 
-Everything below is built at **[EvolvLabs, LLC](https://evolvlabs.ai)**, where I am the founder and
-the entire engineering department.
+Everything below is built at **[EvolvLabs, LLC](https://evolvlabs.ai)**, the Maryland software
+company I founded. Its security posture and CSA STAR Registry self-assessments are published in the
+open at the [Trust Center](https://evolvlabs.ai/trust/), so a reviewer can read them before ever
+talking to me.
 
 ## What I'm building
 
