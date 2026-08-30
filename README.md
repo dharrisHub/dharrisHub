@@ -41,8 +41,9 @@ product. In development.
 
 Also in flight: **Exolvra OS**, an application lifecycle kernel where completion is computed from
 evidence rather than claimed; **EvolvCentral**, a workspace where agents are members rather than
-tools; **EvolvSocial**, below; and **Aqvitus**, an AI-first support platform where a policy engine
-sits between the model and every tool it can touch.
+tools; **EvolvSocial**, a local-first studio that researches, scripts, renders, and publishes video
+on its own machine; and **Aqvitus**, an AI-first support platform where a policy engine sits between
+the model and every tool it can touch.
 
 ## Open source
 
@@ -63,9 +64,9 @@ RICE, and deduped against previous weeks so it stops repeating itself.
 ## The channel is a demo
 
 **[Neural Stack](https://www.youtube.com/@Neural-Stack-AI)** covers software, AI, and open source. I
-do not film it. **EvolvSocial**, one of the products above, researches each subject, gates every
-claim against a verbatim quote from a real source, writes the script, renders the episode with my
-virtual avatar hosting, and publishes it. I set the topics and approve the work.
+do not film it. **EvolvSocial** researches each subject, gates every claim against a verbatim quote
+from a real source, writes the script, renders the episode with my virtual avatar hosting, and
+publishes it. I set the topics and approve the work.
 
 Claims that cannot be traced to a source quote never reach a script. Same idea as everything else
 here, pointed at content instead of code.
