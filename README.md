@@ -83,7 +83,7 @@ mine.
 
 ## Reach me
 
-[dharris@evolvlabs.ai](mailto:dharris@evolvlabs.ai) · Sykesville, Maryland
+[dharris@evolvlabs.ai](mailto:dharris@evolvlabs.ai) · Maryland
 
 <sub>Most of my repositories are private while their products are in development. The public ones
 above are the ones meant to be used.</sub>
